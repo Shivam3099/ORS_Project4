@@ -1,0 +1,9 @@
+127.0.0.1 - - [14/Jul/2022:00:09:49 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [14/Jul/2022:00:09:57 +0530] "GET /ORS_Project4/WEB-INF/classes/com/rays/pro4/Model/MarksheetModel.java HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [14/Jul/2022:00:09:57 +0530] "GET /ORS_Project4/img/customLogo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [14/Jul/2022:00:10:00 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1263
+0:0:0:0:0:0:0:1 - - [14/Jul/2022:00:10:00 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [14/Jul/2022:00:10:04 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2548
+0:0:0:0:0:0:0:1 - - [14/Jul/2022:00:10:08 +0530] "GET /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2450
+0:0:0:0:0:0:0:1 - - [14/Jul/2022:00:10:08 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [14/Jul/2022:00:10:17 +0530] "POST /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2502

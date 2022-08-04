@@ -1,0 +1,10 @@
+127.0.0.1 - - [31/Jul/2022:23:46:09 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [31/Jul/2022:23:46:13 +0530] "GET /ORS_Project4/servlet/com.rays.pro4.controller.MyProfileCtl HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [31/Jul/2022:23:46:13 +0530] "GET /ORS_Project4/img/customLogo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [31/Jul/2022:23:46:16 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1262
+0:0:0:0:0:0:0:1 - - [31/Jul/2022:23:46:28 +0530] "GET /ORS_Project4 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [31/Jul/2022:23:46:28 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 646
+0:0:0:0:0:0:0:1 - - [31/Jul/2022:23:46:28 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [31/Jul/2022:23:46:31 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1262
+0:0:0:0:0:0:0:1 - - [31/Jul/2022:23:46:36 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2547
+0:0:0:0:0:0:0:1 - - [31/Jul/2022:23:46:41 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 200 2587
